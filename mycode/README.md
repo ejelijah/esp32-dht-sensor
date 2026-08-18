@@ -32,3 +32,4 @@ A lightweight embedded systems project designed to monitor environmental conditi
 2.  Set the baud rate to **115200**.
 3.  The system will initialize and begin displaying environmental data every 2 seconds.
 
+![alt text](IMG_0141-1.jpeg)
